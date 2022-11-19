@@ -4,7 +4,7 @@ We are starting on lesson 31
 
 ## Lesson 31
 
-### Pre
+### Lesson 31 Pre
 ```html
 <html>
   <body>
@@ -26,7 +26,7 @@ We are starting on lesson 31
         </ul>
         <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg" alt="A slice of lasagna on a plate.">
-          <figcaption>Cats <em>love</em> lasagna.</figcaption>  
+          <figcaption>Cats <em>love</em> lasagna.</figcaption>
         </figure>
         <h3>Top 3 things cats hate:</h3>
         <ol>
@@ -36,6 +36,6 @@ We are starting on lesson 31
         </ol>
         <figure>
           <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field.">
-          <!-- Add a figcaption element with text: Cats had other cats. -->
+          <!-- Add a figcaption element with text: Cats hate other cats. -->
         </figure>
 ```
